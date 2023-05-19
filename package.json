@@ -1,0 +1,15 @@
+{
+  "name": "random_number_generator",
+  "version": "1.0.0",
+  "description": "An API to generate random numbers",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "author": "Michael Peter",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
